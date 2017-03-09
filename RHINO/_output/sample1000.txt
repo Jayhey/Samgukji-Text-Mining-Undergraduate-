@@ -1,0 +1,1256 @@
+중국의	중국/NNP + 의/JKG
+샤오미는	샤오/NNG + 미/NNG + 는/JX
+최근	최근/NNG
+LG전자와	LG/NNP + 전자/NNG + 오/VX + 아/EF
+화웨이를	화웨이/NNP + 를/JKO
+제치고	제치/VV + 고/EC
+세계	세계/NNG
+3위	3/SN + 위/NNB
+스마트폰	스마트폰/NNG
+업체로	업체/NNG + 로/JKB
+부상했다	부상하/VV + 았/EP + 다/EF
+.	./SF
+샤오미는	샤오/NNG + 미/NNG + 는/JX
+모든	모든/MM
+제품을	제품/NNG + 을/JKO
+온라인에서만	온라인/NNG + 에서/JKB + 만/JX
+판매하고	판매하/VV + 고/EC
+있기	있/VX + 기/ETN
+때문에	때문/NNB + 에/JKB
+샤오미	샤오/NNG + 미/NNG
+간판을	간판/NNG + 을/JKO
+내건	내걸/VV + ㄴ/ETM
+매장들은	매장/NNG + 들/XSN + 은/JX
+모두	모두/MAG
+짝퉁	짝/NNG + 퉁/NNG
+업체라는	업체/NNG + 라는/ETM
+것이다	것/NNB + 이다/EF
+.	./SF
+실제로	실제로/MAG
+중국	중국/NNP
+전역에는	전역/NNG + 에/JKB + 는/JX
+샤오미의	샤오/NNG + 미/NNG + 의/JKG
+상호를	상호/NNG + 를/JKO
+달고	달/VX + 고/EC
+모방	모방/NNG
+제품을	제품/NNG + 을/JKO
+판매하는	판매하/VV + 는/ETM
+업체들이	업체/NNG + 들/XSN + 이/JKS
+우후죽순	우후죽순/NNG
+생긴	생기/VV + ㄴ/ETM
+것으로	것/NNB + 으로/JKB
+전해졌다	전하/VV + 아/EC + 지/VX + 었/EP + 다/EF
+.	./SF
+BGR은	BGR/SL + 은/JX
+샤오미가	샤오/NNG + 미/NNG + 가/JKS
+'	'/SS
+짝퉁	짝/NNG + 퉁/NNG
+샤오미	샤오/NNG + 미/NNG
+'	'/SS
+확산	확산/NNG
+차단에	차단/NNG + 에/JKB
+나선	나선/NNG
+것을	것/NNB + 을/JKO
+두고	두/VV + 고/EC
+자업자득이라고	자업자득/NNG + 이/VCP + 라고/EC
+평가했다	평가하/VV + 았/EP + 다/EF
+.	./SF
+그러면서	그러면/MAJ + 서/JKB
+다른	다른/MM
+짝퉁	짝/NNG + 퉁/NNG
+스마트폰	스마트폰/NNG
+제조업체인	제조/NNG + 업체/NNG + 이/VCP + ㄴ/ETM
+구폰	구/NNG + 폰/NNG
+(	(/SS
+Goophone	Goophone/SL
+)	)/SS
+역시	역시/MAG
+조만간	조만간/MAG
+자사	자사/NNG
+모방	모방/NNG
+제품을	제품/NNG + 을/JKO
+사지	사지/NNG
+말아	말/VV + 아/EC
+달라고	달/VX + 라고/EC
+나설	나서/VV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+예상된다며	예상되/VV + ㄴ다며/EC
+중국	중국/NNP
+제조사들의	제조사/NNG + 들/XSN + 의/JKG
+'	'/SS
+짝퉁	짝/NNG + 퉁/NNG
+전략	전략/NNG
+'	'/SS
+을	을/JKO
+우회적으로	우회/NNG + 적/XSN + 으로/JKB
+꼬집었다	꼬집/VV + 었/EP + 다/EF
+.	./SF
+이에	이/NP + 에/JKB
+대해	대하/VV + 어/EC
+국내	국내/NNG
+업계	업계/NNG
+관계자는	관계자/NNG + 는/JX
+"	"/SS
+애플	애플/NNP
+모방	모방/NNG
+제품의	제품/NNG + 의/JKG
+박리다매	박리다매/NNG
+전략으로	전략/NNG + 으로/JKB
+성공을	성공/NNG + 을/JKO
+거둔	거두/VV + ㄴ/ETM
+샤오미가	샤오/NNG + 미/NNG + 가/JKS
+'	'/SS
+후발	후발/NNG
+'	'/SS
+짝퉁업체의	짝/NNG + 퉁/NNG + 업체/NNG + 의/JKG
+도전에	도전/NNG + 에/JKB
+고생하는	고생하/VV + 는/ETM
+역설적인	역설/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+현상이	현상/NNG + 이/JKS
+벌어지고	벌어지/VV + 고/EC
+있다	있/VX + 다/EF
+"	"/SS
+고	고/JKQ
+평가했다	평가하/VV + 았/EP + 다/EF
+.	./SF
+한편	한편/NNG
+,	,/SP
+샤오미는	샤오/NNG + 미/NNG + 는/JX
+이날	이날/NNG
+주력	주력/NNG
+스마트폰	스마트폰/NNG
+새	새/MM
+모델을	모델/NNG + 을/JKO
+출시할	출시하/VV + ㄹ/ETM
+예정이다	예정/NNG + 이다/EF
+.	./SF
+샤오미는	샤오/NNG + 미/NNG + 는/JX
+지난	지나/VV + ㄴ/ETM
+13일	13/SN + 일/NNB
+자사	자사/NNG
+페이스북에	페이스북/NNP + 에/JKB
+'	'/SS
+_	_/SO
+_	_/SO
+_	_/SO
+_	_/SO
+_	_/SO
+is	is/SL
+better	better/SL
+than	than/SL
+one	one/SL
+'	'/SS
+라는	라는/EC
+문구를	문구/NNG + 를/JKO
+내걸고	내걸/VV + 고/EC
+현지	현지/NNG
+시각으로	시각/NNG + 으로/JKB
+15일	15/SN + 일/NNB
+오후	오후/NNG
+2시에	2/SN + 시/XSN + 에/JKB
+새	새/VV
+스마트폰	스마트폰/NNG
+출시	출시/NNG
+행사를	행사/NNG + 를/JKO
+연다고	연/NNG + 다고/EC
+밝혔다	밝히/VV + 었/EP + 다/EF
+.	./SF
+샤오미의	샤오/NNG + 미/NNG + 의/JKG
+새	새/NNG
+스마트폰의	스마트폰/NNG + 의/JKG
+이름은	이름/NNG + 은/JX
+'	'/SS
+Mi5	Mi/SL + 5/SN
+'	'/SS
+가	가/NNG
+될	되/VV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+예상되는	예상되/VV + 는/ETM
+가운데	가운데/NNG
+애플의	애플/NNP + 의/JKG
+아이폰처럼	아이폰/NNP + 처럼/JKB
+Mi4S	Mi/SL + 4/SN + S/SL
+또는	또/MAG + 는/JX
+Mi4플러스	Mi/SL + 4/SN + 플러스/NNG
+모델명을	모델명/NNG + 을/JKO
+달고	달/VX + 고/EC
+출시될	출시되/VV + ㄹ/ETM
+것이라는	것/NNB + 이/VCP + 라는/ETM
+추측도	추측/NNG + 도/JX
+나온다	나오/VV + ㄴ다/EF
+.	./SF
+가능성은	가능/NNG + 성/XSN + 은/JX
+희박하지만	희박/XR + 하/VV + 지만/EC
+만일	만일/NNG
+그렇다면	그렇/VA + 다면/EC
+스마트폰	스마트폰/NNG
+이름짓기조차도	이름/NNG + 짓/VV + 기/ETN + 조차/JX + 도/JX
+애플의	애플/NNP + 의/JKG
+전략을	전략/NNG + 을/JKO
+베끼는	베끼/VV + 는/JX
+셈이	셈/NNG + 이/JKS
+된다	되/VV + ㄴ다/EF
+.	./SF
+샤오미는	샤오/NNG + 미/NNG + 는/JX
+14일	14/SN + 일/NNB
+공식	공식/NNG
+온라인샵	온라인/NNG + 샵/NNG
+페이스북	페이스북/NNP
+계정에	계정/NNG + 에/JKB
+'	'/SS
+明天見	明天見/SH
+,	,/SP
+NOT	NOT/SL
+5	5/SN
+'	'/SS
+(	(/SS
+내일	내일/MAG
+출시	출시/NNG
+,	,/SP
+하지만	하지만/MAJ
+5는	5/SN + 는/JX
+아니다	아니/VCN + 다/EF
+)	)/SS
+라는	라는/EC
+문구가	문구/NNG + 가/JKS
+적힌	적히/VV + ㄴ/ETM
+광고	광고/NNG
+포스터를	포스터/NNG + 를/JKO
+올려	올리/VV + 어/EC
+새	새/MM
+모델명에	모델명/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+궁금증을	궁금증/NNG + 을/JKO
+자극했다	자극하/VV + 았/EP + 다/EF
+.	./SF
+대설	대설/NNG
+경보라도	경보/NNG + 라도/EC
+내린	내리/VV + ㄴ/ETM
+듯	듯/NNB
+문자가	문자/NNG + 가/JKS
+푹푹	푹푹/MAG
+쌓인다	쌓이/VV + ㄴ다/EF
+.	./SF
+수백	수백/NR
+개로	개/NNB + 로/JKB
+늘어난	늘어나/VV + ㄴ/ETM
+트위터	트위터/NNP
+쪽지	쪽지/NNG
+창은	창/NNG + 은/JX
+다닥다닥	다닥다닥/MAG
+줄지어	주/VV + ㄹ지/EC + 어/EC
+늘어선	늘어서/VV + ㄴ/ETM
+쪽방촌이	쪽방촌/NNG + 이/JKS
+됐다	되/VV + 었/EP + 다/EF
+.	./SF
+뉴욕에서	뉴욕/NNP + 에서/JKB
+독일에서	독일/NNP + 에서/JKB
+인도에서	인도/NNP + 에서/JKB
+수천의	수천/NNP + 의/JKG
+손길이	손길/NNG + 이/JKS
+파란	파란/NNG
+담쟁이넝쿨처럼	담쟁이/NNG + 넝쿨/NNG + 처럼/JKB
+이곳	이곳/NP
+굴뚝으로	굴뚝/NNG + 으로/JKB
+뻗어	뻗/VV + 어/EC
+오르고	오르/VV + 고/EC
+있다	있/VX + 다/EF
+.	./SF
+문자	문자/NNG
+해독에	해독/NNG + 에/JKB
+지친	지친/NNG
+휴대폰은	휴대폰/NNG + 은/JX
+서너	서너/MM
+번을	번/NNG + 을/JKO
+기절했고	기절하/VV + 았/EP + 고/EC
+배터리는	배터리/NNG + 는/JX
+시간	시간/NNG
+단위로	단위/NNG + 로/JKB
+갈아	가/VV + ㄹ/ETM + 아/EC
+채웠다	채우/VV + 었/EP + 다/EF
+.	./SF
+태양은	태양/NNG + 은/JX
+정수리	정수리/NNG
+위에	위/NNG + 에/JKB
+조명으로	조명/NNG + 으로/JKB
+걸려	걸리/VV + 어/EC
+있고	있/VX + 고/EC
+바람은	바람/NNG + 은/JX
+소리를	소리/NNG + 를/JKO
+참았다	참/VV + 았/EP + 다/EF
+.	./SF
+마힌드라	마/NNG + 힌/NNG + 드라/EF
+아난드	아난드/NNP
+회장이	회장/NNG + 이/JKS
+이틀	이틀/NNG
+전	저/NP + 는/JX
+입국했다	입국하/VV + 았/EP + 다/EF
+.	./SF
+회사는	회사/NNG + 는/JX
+그의	그/NP + 의/JKG
+일정과	일정/NNG + 과/JC
+동선을	동선/NNG + 을/JKO
+함구했다	함구하/VV + 았/EP + 다/EF
+.	./SF
+세계적	세계/NNG + 적/XSN
+경제지	경제지/NNG
+포천이	포천/NNP + 이/JKS
+선정한	선정하/VV + ㄴ/ETM
+50대	50/SN + 대/NNB
+기업인	기업인/NNG
+아난드	아난드/NNP
+회장은	회장/NNG + 은/JX
+그렇게	그렇게/MAG
+소리	소리/NNG
+소문도	소문/NNG + 도/JX
+없이	없이/MAG
+서울	서울/NNP
+모처에서	모처/NNG + 에서/JKB
+여장을	여장/NNG + 을/JKO
+풀었다	풀/VV + 었/EP + 다/EF
+.	./SF
+자신이	자신/NNG + 이/JKS
+대주주로	대주주/NNG + 로/JKB
+있는	있/VX + 는/ETM
+쌍용자동차에	쌍용자동차/NNP + 에/JKB
+007작전으로	007/SH + 작전/NNG + 으로/JKB
+들어오게	들어오/VV + 게/EC
+된	되/VV + ㄴ/ETM
+그의	그/NP + 의/JKG
+마음을	마음/NNG + 을/JKO
+생각하며	생각하/VV + 며/EC
+밤하늘의	밤하늘/NNG + 의/JKG
+별을	별/NNG + 을/JKO
+올려다봤다	올리/VV + 어다/EC + 보/VV + 았/EP + 다/EF
+.	./SF
+아난드	아난드/NNP
+회장이	회장/NNG + 이/JKS
+인도발	인도/NNP + 발/NNG
+한국행	한국행/NNG
+비행기에	비행기/NNG + 에/JKB
+발을	발/NNG + 을/JKO
+올려놓은	올려놓/VV + 은/JX
+그	그/MM
+시간	시간/NNG
+.	./SF
+쌍용차	쌍용차/NNP
+굴뚝에선	굴뚝/NNG + 에서/JKB + ㄴ/JX
+힌디어를	힌디어/NNP + 를/JKO
+다듬고	다듬/VV + 고/EC
+영어를	영어/NNP + 를/JKO
+찾아	찾/VV + 아/EC
+알맞은	알맞/VA + 은/JX
+문장을	문장/NNG + 을/JKO
+만들고	만들/VV + 고/EC
+있었다	있/VX + 었/EP + 다/EF
+.	./SF
+비행기	비행기/NNG
+안에서	안/NNG + 에서/JKB
+한국에	한국/NNP + 에/JKB
+대한	대하/VV + ㄴ/ETM
+그리고	그리고/MAJ
+쌍용차	쌍용차/NNP
+해고자에	해고자/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+안내문을	안내문/NNG + 을/JKO
+손에	손/NNG + 에/JKB
+쥐여	쥐이/VV + 어/EC
+주고	주/VX + 고/EC
+싶었다	싶/VX + 었/EP + 다/EF
+.	./SF
+서툰	서투르/VA + ㄴ/ETM
+힌디어를	힌디어/NNP + 를/JKO
+트위터에	트위터/NNP + 에/JKB
+올리고	올리/VV + 고/EC
+영문을	영문/NNG + 을/JKO
+올렸다	올리/VV + 었/EP + 다/EF
+.	./SF
+사진을	사진/NNG + 을/JKO
+고르는	고르/VV + 는/ETM
+손끝이	손끝/NNG + 이/JKS
+떨렸다	떨리/VV + 었/EP + 다/EF
+.	./SF
+이	이/MM
+기회를	기회/NNG + 를/JKO
+놓치면	놓치/VV + 면/EC
+들이닥치게	들이닥치/VV + 게/EC
+될	되/VV + ㄹ/ETM
+한파	한파/NNG
+때문이었다	때문/NNB + 이/VCP + 었/EP + 다/EF
+.	./SF
+아난드	아난드/NNP
+회장과	회장/NNG + 과/JC
+얘기를	얘기/NNG + 를/JKO
+나누고	나누/VV + 고/EC
+싶었다	싶/VX + 었/EP + 다/EF
+.	./SF
+우리	우리/NP
+사정을	사정/NNG + 을/JKO
+봐	보/VV + 아/EC
+달라는	달라/VX + 는/JX
+손짓을	손짓/NNG + 을/JKO
+하고	하/XSV + 고/EC
+싶었다	싶/VX + 었/EP + 다/EF
+.	./SF
+쌍용차를	쌍용차/NNP + 를/JKO
+인수한	인수하/VV + ㄴ/ETM
+2010년	2010/SN + 년/NNB
+이후	이후/NNG
+우리를	우리/NP + 를/JKO
+어떻게	어떻/VA + 게/EC
+생각하고	생각하/VV + 고/EC
+있는지	있/VX + 는지/EC
+궁금했다	궁금/XR + 하/XSV + 았/EP + 다/EF
+.	./SF
+영국과도	영국/NNP + 과/JKB + 도/JX
+바꾸지	바꾸/VV + 지/EC
+않는다는	않/VX + 는다는/ETM
+간디의	간디/NNP + 의/JKG
+나라	나라/NNG
+인도	인도/NNP
+.	./SF
+영성과	영성/NNP + 과/JC
+명상으로	명상/NNG + 으로/JKB
+휴양림	휴양림/NNG
+같은	같/VA + 은/ETM
+삶의	삶/NNG + 의/JKG
+속도	속도/NNG
+조절기인	조절기/NNG + 이/VCP + ㄴ/ETM
+인도	인도/NNP
+회장의	회장/NNG + 의/JKG
+생각이	생각/NNG + 이/JKS
+궁금했다	궁금/XR + 하/XSV + 았/EP + 다/EF
+.	./SF
+쌍용차	쌍용차/NNP
+조합원들이	조합원/NNG + 들/XSN + 이/JKS
+아침부터	아침/NNG + 부터/JX
+분주하다	분주하/VV + 다/EF
+.	./SF
+현수막을	현수막/NNG + 을/JKO
+챙기고	챙기/VV + 고/EC
+신발을	신발/NNG + 을/JKO
+담는다	담/VV + 는다/EF
+.	./SF
+서글픈	서글프/VA + ㄴ/ETM
+분주함이며	분주/NNG + 함/NNG + 이/VCP + 며/EC
+서러움의	서러움/NNG + 의/JKG
+재빠른	재빠르/VA + ㄴ/ETM
+손길들이다	손길/NNG + 들/XSN + 이/VCP + 다/EF
+.	./SF
+쌍용차	쌍용차/NNP
+해고자들은	해고자/NNG + 들/XSN + 은/JX
+왜	왜/MAG
+26켤레의	26/SN + 켤레/NNB + 의/JKG
+신발을	신발/NNG + 을/JKO
+준비했을까	준비하/VV + 았/EP + 을까/EF
+.	./SF
+먼지가	먼지/NNG + 가/JKS
+쌓이고	쌓이/VV + 고/EC
+뒤틀려	뒤틀리/VV + 어/EC
+모양조차	모양/NNG + 조차/JX
+우습게	우습/VA + 게/EC
+생긴	생기/VV + ㄴ/ETM
+신발을	신발/NNG + 을/JKO
+기자회견장에	기자/NNG + 회견장/NNG + 에/JKB
+왜	왜/MAG
+들고	들/VV + 고/EC
+갔을까	가/VV + 았/EP + 을까/EF
+.	./SF
+5박6일간	5/SN + 박/NNB + 6/SN + 일/NNB + 간/NNB
+오체투지를	오체투지/NNG + 를/JKO
+해	하/VV + 아/EF
+동태가	동태/NNG + 가/JKS
+된	되/VV + ㄴ/ETM
+몸으로	몸/NNG + 으로/JKB
+그들은	그/NP + 들/XSN + 은/JX
+다시	다시/MAG
+현수막을	현수막/NNG + 을/JKO
+들고	들/VV + 고/EC
+신차	신/XPN + 차/NNG
+출시	출시/NNG
+장소	장소/NNG
+앞에	앞/NNG + 에/JKB
+가지런하게	가지런/XR + 하/VV + 게/EC
+섰다	서/VV + 었/EP + 다/EF
+.	./SF
+현수막	현수막/NNG
+앞으론	앞/NNG + 으로/JKB + ㄴ/JX
+26켤레의	26/SN + 켤레/NNB + 의/JKG
+신발이	신발/NNG + 이/JKS
+범죄	범죄/NNG
+수사	수사/NNG
+현장처럼	현장/NNG + 처럼/JKB
+모두가	모두/NNG + 가/JKS
+번호를	번호/NNG + 를/JKO
+달고	달/VX + 고/EC
+누워	눕/VV + 어/EC
+있다	있/VX + 다/EF
+.	./SF
+1	1/SN
+,	,/SP
+2	2/SN
+,	,/SP
+3	3/SN
+,	,/SP
+4	4/SN
+…	…/SE
+25	25/SN
+,	,/SP
+26	26/SN
+…	…/SE
+이	이/MM
+숫자는	숫자/NNG + 는/JX
+이것으로	이것/NP + 으로/JKB
+끝인가	끝/NNG + 이/VCP + ㄴ가/EC
+.	./SF
+마침표	마침표/NNG
+없는	없/VA + 는/ETM
+이	이/MM
+숫자의	숫자/NNG + 의/JKG
+항렬이	항렬/NNG + 이/JKS
+낡은	낡/VV + 은/ETM
+신발	신발/NNG
+안으로	안/MAG + 으로/JKB
+들어갔다	들어가/VV + 았/EP + 다/EF
+.	./SF
+목발이	목발/NNG + 이/JKS
+있었다	있/VX + 었/EP + 다/EF
+.	./SF
+여성용	여성/NNG + 용/XSN
+하이힐이	하이힐/NNG + 이/JKS
+있었고	있/VX + 었/EP + 고/EC
+용접	용접/NNG
+불꽃을	불꽃/NNG + 을/JKO
+맞아	맞/VV + 아/EC
+구멍이	구멍/NNG + 이/JKS
+숭숭한	숭숭/MAG + 하/VV + ㄴ/ETM
+안전화가	안전화/NNG + 가/JKS
+있었다	있/VX + 었/EP + 다/EF
+.	./SF
+고무신이	고무신/NNG + 이/JKS
+여름을	여름/NNG + 을/JKO
+떠올리게	떠올리/VV + 게/EC
+했고	하/VV + 았/EP + 고/EC
+슬리퍼가	슬리퍼/NNG + 가/JKS
+욕실을	욕실/NNG + 을/JKO
+증거했다	증거하/VV + 았/EP + 다/EF
+.	./SF
+인도	인도/NNP
+속담엔	속담/NNG + 에/JKB + ㄴ/JX
+"	"/SS
+그	그/MM
+사람의	사람/NNG + 의/JKG
+신발을	신발/NNG + 을/JKO
+신어	신어/NNG
+보기	보/VV + 기/ETN
+전에는	전/NNG + 에/JKB + 는/JX
+그	그/MM
+사람의	사람/NNG + 의/JKG
+발에	발/NNG + 에/JKB
+대해	대하/VV + 어/EC
+어떤	어떤/MM
+말도	말/NNG + 도/JX
+하지	하/VV + 지/EC
+말라	마르/VV + 아/EC
+"	"/SS
+했다	하/XSV + 았/EP + 다/EF
+.	./SF
+아난드	아난드/NNP
+회장은	회장/NNG + 은/JX
+이	이/MM
+신발을	신발/NNG + 을/JKO
+보았을까	보/VV + 았/EP + 을까/EF
+.	./SF
+지난	지나/VV + ㄴ/ETM
+1월11일	1/SN + 월/NNB + 11/SN + 일/NNB
+굴뚝데이가	굴뚝/NNG + 데/NNG + 이/VCP + 가/EF
+열렸다	열리/VV + 었/EP + 다/EF
+.	./SF
+역	역/NNG
+앞에서	앞/NNG + 에서/JKB
+굴뚝을	굴뚝/NNG + 을/JKO
+응원하는	응원하/VV + 는/ETM
+역전의	역전/NNG + 의/JKG
+용자들이	용자/NNG + 들/XSN + 이/JKS
+등장했다	등장하/VV + 았/EP + 다/EF
+.	./SF
+사방팔방	사방팔방/NNG
+동서남북에서	동서남북/NNG + 에서/JKB
+해외에서	해외/NNG + 에서/JKB
+피켓을	피켓/NNG + 을/JKO
+만들어	만들/VV + 어/EC
+웃으며	웃/VV + 으며/EC
+즐겁게	즐겁/VA + 게/EC
+서	서/NNG
+있는	있/VX + 는/ETM
+모습을	모습/NNG + 을/JKO
+봤다	보/VV + 았/EP + 다/EF
+.	./SF
+그	그/MM
+착한	착하/VA + ㄴ/ETM
+온기가	온기/NNG + 가/JKS
+달과	달/NNG + 과/JC
+별에	별/NNG + 에/JKB
+방향을	방향/NNG + 을/JKO
+알려	알리/VV + 러/EC
+주고	주/VV + 고/EC
+바람은	바람/NNG + 은/JX
+지쳐	지치/VV + 어/EC
+있는	있/VX + 는/ETM
+등을	등/NNB + 을/JKO
+밀어	밀/VV + 어/EC
+앞으로	앞/NNG + 으로/JKB
+가게	가게/NNG
+했다	하/XSV + 았/EP + 다/EF
+.	./SF
+피켓을	피켓/NNG + 을/JKO
+만들고	만들/VV + 고/EC
+글씨를	글씨/NNG + 를/JKO
+적어	적/VV + 어/EC
+내려갔을	내려가/VV + 았/EP + 을/JKO
+,	,/SP
+그	그/MM
+착한	착하/VA + ㄴ/ETM
+손들을	손들/VV + 을/JKO
+떠올려본다	떠올리/VV + 어/EC + 보/VX + ㄴ다/EF
+.	./SF
+사라진	사라지/VV + ㄴ/ETM
+것	것/NNB
+같았던	같/VA + 았/EP + 던/ETM
+지난	지나/VV + ㄴ/ETM
+7년이	7/SN + 년/NNB + 이/JKS
+소중하게	소중/XR + 하/VV + 게/EC
+잘	잘/MAG
+보관되었다는	보관되/VV + 었/EP + 다는/ETM
+믿음이	믿음/NNG + 이/JKS
+생겼다	생기/VV + 었/EP + 다/EF
+.	./SF
+찬	차/VA + ㄴ/ETM
+기운이	기운/NNG + 이/JKS
+뼛속까지	뼛속/NNG + 까지/JX
+파고드는	파고/NNG + 들/VV + 는/EC
+서울	서울/NNP
+한복판	한/XPN + 복판/NNG
+도로	도로/NNG
+위에서	위/NNG + 에서/JKB
+머리를	머리/NNG + 를/JKO
+찧고	찧/VV + 고/EC
+팔다리	팔다리/NNG
+끌고	끌/VV + 고/EC
+배	배/NNG
+밀어	밀/VV + 어/EC
+갔던	가/VV + 았/EP + 던/ETM
+수많은	수많/VA + 은/ETM
+노동자들에게도	노동자/NNG + 들/XSN + 에게/JKB + 도/JX
+큰	크/VA + ㄴ/ETM
+위로와	위로/NNG + 와/JC
+포옹이었다	포옹/NNG + 이/VCP + 었/EP + 다/EF
+.	./SF
+쌍용차	쌍용차/NNP
+문제는	문제/NNG + 는/JX
+많이도	많이/MAG + 도/JX
+묵은	묵/VV + 은/ETM
+문제다	문제/NNG + 다/EF
+.	./SF
+오죽했으면	오죽/MAG + 하/VV + 았/EP + 으면/EC
+백약이	백약/NNG + 이/JKS
+무효했고	무효하/VV + 았/EP + 고/EC
+아편도	아편/NNG + 도/JX
+듣지	듣/VV + 지/EC
+않았다	않/VX + 았/EP + 다/EF
+푸념을	푸념/NNG + 을/JKO
+늘어놨겠는가	늘어놓/VV + 았/EP + 겠/EP + 는가/EF
+.	./SF
+그만큼	그만큼/NNG
+될	되/VV + ㄹ/ETM
+듯	듯/NNB
+될	되/VV + ㄹ/ETM
+듯	듯/NNB
+사람	사람/NNG
+애간장	애간장/NNG
+녹였던	녹이/VV + 었/EP + 던/ETM
+지난	지나/VV + ㄴ/ETM
+시간이었다	시간/NNG + 이/VCP + 었/EP + 다/EF
+.	./SF
+그래서일까	그래서/MAJ + 이/VCP + ㄹ까/EF
+.	./SF
+절망을	절망/NNG + 을/JKO
+비워낸	비우/VV + 어/EC + 내/VX + ㄴ/ETM
+그	그/MM
+공간만큼이	공간/NNG + 만큼/JKB + 이/JKC
+우리에겐	우리/NP + 에게/JKB + ㄴ/JX
+희망이었던	희망/NNG + 이/VCP + 었/EP + 던/ETM
+것	것/NNB
+같다	같/VA + 다/EF
+.	./SF
+그러나	그러나/MAJ
+힘겹게	힘겹/VA + 게/EC
+밀어	밀/VV + 어/EC
+올린	올리/VV + ㄴ/ETM
+돌덩이가	돌덩이/NNG + 가/JKS
+다시	다시/MAG
+산	산/NNG
+아래로	아래/NNG + 로/JKB
+굴러떨어질	굴러떨어지/VV + ㄹ/ETM
+수도	수도/NNG
+있다	있/VX + 다/EF
+.	./SF
+그러나	그러나/MAJ
+확신	확신/NNG
+하나는	하나/NR + 는/JX
+생겼다	생기/VV + 었/EP + 다/EF
+.	./SF
+다시	다시/MAG
+굴러	굴러/VV
+내려오는	내려오/VV + 는/JX
+돌덩이라	돌덩이/NNG + 라/EF
+하더라도	하/VV + 더라도/EC
+다시	다시/MAG
+밀어	밀/VV + 어/EC
+올릴	올리/VV + ㄹ/ETM
+착한	착하/VA + ㄴ/ETM
+사람들이	사람/NNG + 들/XSN + 이/JKS
+이렇게	이렇게/MAG
+많다는	많/VA + 다는/ETM
+것과	것/NNB + 과/JC
+적어도	적어도/MAG
+굴러떨어지는	굴러떨어지/VV + 는/JX
+돌에	돌/NNG + 에/JKB
+깔려	깔리/VV + 어/EC
+죽지는	죽지/NNG + 는/JX
+않겠다는	않/VX + 겠/EP + 다는/ETM
+확신과	확신/NNG + 과/JC
+믿음이다	믿음/NNG + 이다/EF
+.	./SF
+이것은	이것/NP + 은/JX
+기정사실로	기정사실/NNG + 로/JKB
+굳어졌다	굳어지/VV + 었/EP + 다/EF
+.	./SF
+또한	또/MAG + 하/VV + ㄴ/ETM
+쌍용차	쌍용차/NNP
+해고자	해고자/NNG
+복직과	복직/NNG + 과/JC
+26명	26/SN + 명/NNB
+희생자에	희생자/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+사과와	사과/NNG + 와/JC
+대책은	대책/NNG + 은/JX
+아주	아주/MAG
+작은	작/VA + 은/ETM
+문제란	문제/NNG + 란/JX
+사실이다	사실/NNG + 이다/EF
+.	./SF
+우리는	우리/NP + 는/JX
+지금	지금/NNG
+어떤	어떤/MM
+가치	가치/NNG
+앞에	앞/NNG + 에/JKB
+서	서/VV
+있다	있/VX + 다/EF
+.	./SF
+목표가	목표/NNG + 가/JKS
+같지	같/VA + 지/EC
+않을	않/VX + 을/JKO
+때	때/VV
+오히려	오/VV + 히/NNG + 려/EC
+우린	우리/NP + ㄴ/JX
+더	더/MAG
+강해진다는	강하/VA + 아/EC + 지/VX + ㄴ다는/ETM
+것을	것/NNB + 을/JKO
+안다	알/VV + ㄴ다/EF
+.	./SF
+아난드	아난드/NNP
+회장이	회장/NNG + 이/JKS
+기자회견장	기자/NNG + 회견장/NNG
+앞에	앞/NNG + 에/JKB
+놓인	놓이/VV + ㄴ/ETM
+신발을	신발/NNG + 을/JKO
+봤다면	보/VV + 았/EP + 다면/EC
+대화는	대화/NNG + 는/JX
+시작된	시작되/VV + ㄴ/ETM
+것이다	것/NNB + 이다/EF
+.	./SF
+문제	문제/NNG
+해결이	해결/NNG + 이/JKS
+급물살을	급물살/NNG + 을/JKO
+탈	탈/NNG
+수도	수도/NNG
+있고	있/VX + 고/EC
+주저앉을	주저앉/VV + 을/JKO
+수도	수도/NNG
+있다	있/VX + 다/EF
+.	./SF
+관심	관심/NNG
+가져	가지/VV + 어/EC
+달라	달라/VX
+.	./SF
+그러나	그러나/MAJ
+여러분의	여러분/NP + 의/JKG
+관심에도	관심/NNG + 에/JKB + 도/JX
+주목해	주목하/VV + 아/EC
+달라	달라/VX
+.	./SF
+굴뚝도	굴뚝/NNG + 도/JX
+쌍용차	쌍용차/NNP
+문제도	문제/NNG + 도/JX
+나아가	나아가/VV
+노동	노동/NNG
+문제와	문제/NNG + 와/JC
+삶의	삶/NNG + 의/JKG
+문제에도	문제/NNG + 에/JKB + 도/JX
+애정하고	애정하/VV + 고/EC
+있다는	있/VX + 다는/ETM
+여러분	여러분/NP
+자신을	자신/NNG + 을/JKO
+주목해	주목하/VV + 아/EC
+달라	달라/VX
+.	./SF
+우리를	우리/NP + 를/JKO
+돕고	돕/VV + 고/EC
+지원하고	지원하/VV + 고/EC
+애정해	애정하/VV + 아/EC
+주시는	주시/NNG + 는/JX
+것	것/NNB
+고맙다	고맙/VA + 다/EF
+.	./SF
+이젠	이제/NNG + ㄴ/JX
+이	이/MM
+싸움	싸움/NNG
+끝내고	끝내/VV + 고/EC
+싶다	싶/VX + 다/EF
+.	./SF
+그래서	그래서/MAJ
+부탁드린다	부탁/NNG + 드리/VV + ㄴ다/EF
+.	./SF
+여러분께	여러분/NP + 께/JKB
+나눠드릴	나누/VV + 어/EC + 드리/VV + ㄹ/ETM
+갑옷은	갑옷/NNG + 은/JX
+없다	없/VA + 다/EF
+.	./SF
+각자가	각자/NNG + 가/JKS
+준비해	준비하/VV + 아/EC
+달라	달라/VX
+.	./SF
+이	이/MM
+싸움을	싸움/NNG + 을/JKO
+통해	통하/VV + 아/EC
+무엇을	무엇/NP + 을/JKO
+다시	다시/MAG
+살려내고	살리/VV + 어/EC + 내/VX + 고/EC
+싶은지	싶/VX + 은지/EC
+여러분	여러분/NP
+각자의	각자/NNG + 의/JKG
+영혼에	영혼/NNG + 에/JKB
+귀	귀/MM
+기울여	기울이/VV + 어/EC
+달라	달라/VX
+.	./SF
+"	"/SS
+매각반대	매각/NNG + 반대/NNG
+"	"/SS
+(	(/SS
+서울	서울/NNP
+=	=/SW
+연합뉴스	연합뉴스/NNP
+)	)/SS
+서명곤	서명곤/NNP
+기자	기자/NNG
+=	=/SW
+금속노조	금속/NNG + 노조/NNG
+삼성테크윈지부	삼성테크윈/NNP + 지부/NNG
+조합원들이	조합원/NNG + 들/XSN + 이/JKS
+15일	15/SN + 일/NNB
+오전	오전/NNG
+서울	서울/NNP
+서초구	서초구/NNP
+서초동	서초동/NNP
+삼성그룹	삼성그룹/NNP
+본사	본사/NNG
+앞에서	앞/NNG + 에서/JKB
+개최한	개최하/VV + ㄴ/ETM
+매각반대	매각/NNG + 반대/NNG
+상경투쟁	상경/NNG + 투쟁/NNG
+집회에서	집회/NNG + 에서/JKB
+삼성테크윈의	삼성테크윈/NNP + 의/JKG
+한화그룹으로의	한화그룹/NNP + 으로/JKB + 의/JKG
+매각에	매각/NNG + 에/JKB
+반대하는	반대하/VV + 는/ETM
+서한을	서한/NNG + 을/JKO
+전달하기	전달하/VV + 기/ETN
+위해	위하/VV +  아/EC
+본사	본사/NNG
+건물로	건물/NNG + 로/JKB
+향하다	향하/VV + 다/EF
+경찰	경찰/NNG
+등에	등/NNB + 에/JKB
+저지당하고	저지/NNG + 당하/XSV + 고/EC
+있다	있/VX + 다/EF
+.	./SF
+2015	2015/SN
+.	./SF
+1	1/SN
+.	./SF
+15	15/SN
+seephoto	seephoto/SL
+@	@/SW
+yna	yna/SL
+.	./SF
+co	co/SL
+.	./SF
+kr	kr/SL
+'	'/SS
+빅딜	빅딜/NNG
+반대	반대/NNG
+'	'/SS
+삼성토탈	삼성/NNP + 토탈/NNG
+노조	노조/NNG
+대규모	대/XPN + 규모/NNG
+집회	집회/NNG
+(	(/SS
+서울	서울/NNP
+=	=/SW
+연합뉴스	연합뉴스/NNP
+)	)/SS
+성혜미	성혜미/NNP
+기자	기자/NNG
+=	=/SW
+한화그룹으로의	한화그룹/NNP + 으로/JKB + 의/JKG
+매각반대	매각/NNG + 반대/NNG
+연대투쟁에	연대/NNG + 투쟁/NNG + 에/JKB
+나선	나선/NNG
+삼성토탈	삼성/NNP + 토탈/NNG
+·	·/SP
+삼성종합화학	삼성종합화학/NNP
+·	·/SP
+삼성테크윈	삼성테크윈/NNP
+·	·/SP
+삼성탈레스	삼성/NNP + 탈레스/NNP
+등	등/NNG
+4개사	4/SN + 개/NNB + 사/NNG
+근로자들이	근로자/NNG + 들/XSN + 이/JKS
+15일	15/SN + 일/NNB
+정오부터	정오/NNG + 부터/JX
+각사	각사/NNG
+공장	공장/NNG
+앞에서	앞/NNG + 에서/JKB
+동시다발	동시/NNG + 다발/NNG
+집회를	집회/NNG + 를/JKO
+개최했다	개최하/VV + 았/EP + 다/EF
+.	./SF
+삼성토탈	삼성/NNP + 토탈/NNG
+노조원	노조원/NNG
+650여	650/SN + 여/XSN
+명이	명/NNG + 이/JKS
+충남	충남/NNP
+대산공장	대산/NNP + 공장/NNG
+앞에서	앞/NNG + 에서/JKB
+집회하고	집회하/VV + 고/EC
+있다	있/VX + 다/EF
+.	./SF
+2015	2015/SN
+.	./SF
+1	1/SN
+.	./SF
+15	15/SN
+<	</SW
+<	</SW
+삼성토탈	삼성/NNP + 토탈/NNG
+노조	노조/NNG
+제공	제공/NNG
+>	>/SW
+>	>/SW
+noanoa	noanoa/SL
+@	@/SW
+yna	yna/SL
+.	./SF
+co	co/SL
+.	./SF
+kr이날	kr/SL + 이날/NNG
+오후	오후/NNG
+12시부터	12/SN + 시/NNB + 부터/JX
+1시간	1/SN + 시간/NNB
+동안	동안/NNG
+삼성토탈	삼성/NNP + 토탈/NNG
+노조원	노조원/NNG
+650명은	650/SN + 명/NNB + 은/JX
+충남	충남/NNP
+대산공장에서	대산/NNP + 공장/NNG + 에서/JKB
+,	,/SP
+최근	최근/NNG
+노조를	노조/NNG + 를/JKO
+설립한	설립하/VV + ㄴ/ETM
+삼성종합화학	삼성종합화학/NNP
+또한	또/MAG + 하/VV + ㄴ/ETM
+울산	울산/NNP
+·	·/SP
+대산	대산/NNP
+공장에서	공장/NNG + 에서/JKB
+각각	각각/MAG
+집회를	집회/NNG + 를/JKO
+열었다	열/VV + 었/EP + 다/EF
+.	./SF
+같은	같/VA + 은/ETM
+시각	시각/NNG
+금속노조	금속/NNG + 노조/NNG
+삼성테크윈	삼성테크윈/NNP
+지회	지회/NNG
+소속	소속/NNG
+근로자	근로자/NNG
+80여명은	80/SN + 여/XSN + 명/NNB + 은/JX
+'	'/SS
+항의서한	항의서하/VV + ㄴ/ETM
+'	'/SS
+을	을/JKO
+전달하겠다며	전달하/VV + 겠/EP + 다며/EC
+삼성본사	삼성/NNP + 본사/NNG
+진입을	진입/NNG + 을/JKO
+시도하다	시도하/VV + 다/EF
+경찰과	경찰/NNG + 과/JC
+몸싸움을	몸싸움/NNG + 을/JKO
+벌이기도	벌이/VV + 기/ETN + 도/JX
+했다	하/XSV + 았/EP + 다/EF
+.	./SF
+윤종균	윤종균/NNP
+금속노조	금속/NNG + 노조/NNG
+삼성테크윈	삼성테크윈/NNP
+지회장은	지회장/NNG + 은/JX
+"	"/SS
+평생	평생/NNG
+몸바쳐온	몸/NNG + 바치/VV + 어/EC + 오/VX + ㄴ/ETM
+회사를	회사/NNG + 를/JKO
+일방적으로	일방/NNG + 적/XSN + 으로/JKB
+팔아버린	팔/VV + 아/EC + 버리/VX + ㄴ/ETM
+삼성그룹의	삼성그룹/NNP + 의/JKG
+결정은	결정/NNG + 은/JX
+원천	원천/NNG
+무효	무효/NNG
+"	"/SS
+라고	라고/EC
+주장했다	주장하/VV + 았/EP + 다/EF
+.	./SF
+삼성테크윈에는	삼성테크윈/NNP + 에/JKB + 는/JX
+금속노조	금속/NNG + 노조/NNG
+지회와	지회/NNG + 와/JC
+기업노조인	기업/NNG + 노조/NNG + 이/VCP + ㄴ/ETM
+삼성테크윈	삼성테크윈/NNP
+노동조합이	노동조합/NNG + 이/JKS
+'	'/SS
+복수노조	복수/NNG + 노조/NNG
+'	'/SS
+로	로/JX
+활동하고	활동하/VV + 고/EC
+있어	있/VX + 어/EC
+기업노조	기업/NNG + 노조/NNG
+소속	소속/NNG
+근로자들은	근로자/NNG + 들/XSN + 은/JX
+이날	이날/NNG
+정오부터	정오/NNG + 부터/JX
+판교	판교/NNP
+·	·/SP
+창원	창원/NNP
+사업장에서	사업장/NNG + 에서/JKB
+집회를	집회/NNG + 를/JKO
+열었다	열/VV + 었/EP + 다/EF
+.	./SF
+판교	판교/NNP
+사업장에는	사업장/NNG + 에/JKB + 는/JX
+삼성테크윈과	삼성테크윈/NNP + 과/JC
+삼성탈레스	삼성/NNP + 탈레스/NNP
+근로자가	근로자/NNG + 가/JKS
+함께	함께/MAG
+모여	모이/VV + 어/EC
+1천명	1/SN + 천/NR + 명/NNB
+정도가	정도/NNG + 가/JKS
+집결했고	집결하/VV + 았/EP + 고/EC
+,	,/SP
+삼성탈레스	삼성/NNP + 탈레스/NNP
+구미사업장에는	구미/NNP + 사업장/NNG + 에/JKB + 는/JX
+700여명이	700/SN + 여/XSN + 명/NNB + 이/JKS
+모였다	모이/VV + 었/EP + 다/EF
+.	./SF
+삼성탈레스	삼성/NNP + 탈레스/NNP
+양철언	양철언/NNP
+비상대책위원장은	비상/NNG + 대책/NNG + 위원장/NNG + 은/JX
+"	"/SS
+삼성이	삼성/NNP + 이/JKS
+잘	잘/MAG
+돼	되/VV + 어/EC
+좋은	좋/VA + 은/ETM
+일자리를	일자리/NNG + 를/JKO
+많이	많이/MAG
+만들고	만들/VV + 고/EC
+다	다/MAG
+같이	같이/MAG
+잘살기	잘살/VV + 기/ETN
+바라는	바라/VV + 는/JX
+마음을	마음/NNG + 을/JKO
+밑바탕에	밑바탕/NNG + 에/JKB
+깔고	깔/VV + 고/EC
+매각반대	매각/NNG + 반대/NNG
+투쟁에	투쟁/NNG + 에/JKB
+나선	나선/NNG
+것임을	것/NNB + 임/NNP + 을/JKO
+분명히	분명히/MAG
+밝히고	밝히/VV + 고/EC
+싶다	싶/VX + 다/EF
+"	"/SS
+고	고/JKQ
+말했다	말하/VV + 았/EP + 다/EF
+.	./SF
+일선	일선/NNG
+경찰서에	경찰서/NNG + 에/JKB
+'	'/SS
+아동학대	아동/NNG + 학대/NNG
+전담팀	전담/NNG + 팀/NNG
+'	'/SS
+구성	구성/NNG
+…	…/SE
+지자체와	지자체/NNG + 와/JC
+합동조사	합동/NNG + 조사/NNG
+(	(/SS
+서울	서울/NNP
+=	=/SW
+연합뉴스	연합뉴스/NNP
+)	)/SS
+구정모	구정/NNG + 모으/VV
+기자	기자/NNG
+=	=/SW
+경찰청은	경찰청/NNG + 은/JX
+일선	일선/NNG
+경찰서	경찰서/NNG
+여성청소년과에	여성/NNG + 청소년/NNG + 과/JKB + 에/JKB
+'	'/SS
+아동학대	아동/NNG + 학대/NNG
+전담팀	전담/NNG + 팀/NNG
+'	'/SS
+을	을/JKO
+구성	구성/NNG
+,	,/SP
+지방자치단체와	지방/NNG + 자치/NNG + 단체/NNG + 와/JC
+합동으로	합동/NNG + 으로/JKB
+어린이집	어린이집/NNG
+,	,/SP
+유치원의	유치원/NNG + 의/JKG
+아동학대	아동/NNG + 학대/NNG
+피해실태를	피해/NNG + 실태/NNG + 를/JKO
+조사하기로	조사하/VV + 기/ETN + 로/JKB
+했다	하/XSV + 았/EP + 다/EF
+.	./SF
+경찰청은	경찰청/NNG + 은/JX
+또	또/MAG
+16일부터	16/SN + 일부/NNG + 트/VV + 어/EC
+한달간	한/MM + 달/NNB + 간/NNG
+'	'/SS
+아동학대	아동/NNG + 학대/NNG
+집중	집중/NNG
+신고기간	신고/NNG + 기간/NNG
+'	'/SS
+으로	으/IC + 로/JKB
+삼아	삼/VV + 아/EC
+기존	기존/NNG
+학교폭력	학교/NNG + 폭력/NNG
+전용	전용/NNG
+신고전화인	신고/NNG + 전화/NNG + 이/VCP + ㄴ/ETM
+'	'/SS
+117	117/SN
+신고센터	신고/NNG + 센터/NNG
+'	'/SS
+로	로/JX
+아동학대	아동/NNG + 학대/NNG
+신고도	신고/NNG + 도/JX
+받는다	받/VV + 는다/EF
+.	./SF
+이를	이르/VV + ㄹ/ETM
+위해	위하/VV +  아/EC
+집중	집중/NNG
+신고기간	신고/NNG + 기간/NNG
+전국	전국/NNG
+주요	주요/NNG
+도로의	도로/NNG + 의/JKG
+전광판	전광판/NNG
+,	,/SP
+경찰서	경찰서/NNG
+홈페이지	홈페이지/NNG
+팝업창	팝업/NNG + 창/NNG
+,	,/SP
+안내	안내/NNG
+리플릿	리플릿/NNG
+등을	등/NNB + 을/JKO
+통해	통하/VV + 아/EC
+신고접수	신고/NNG + 접수/NNG
+사실을	사실/NNG + 을/JKO
+홍보하기로	홍보하/VV + 기/ETN + 로/JKB
+했다	하/XSV + 았/EP + 다/EF
+.	./SF
+아울러	아울러/MAG
+학교전담경찰관이	학교전/NNG + 담/EC + 경찰관/NNG + 이/JKS
+어린이집	어린이집/NNG
+,	,/SP
+유치원	유치원/NNG
+등	등/NNB
+보육시설	보육/NNG + 시설/NNG
+종사자	종사자/NNG
+,	,/SP
+학교	학교/NNG
+·	·/SP
+병원	병원/NNG
+·	·/SP
+복지시설	복지/NNG + 시설/NNG
+등	등/NNB
+아동학대	아동/NNG + 학대/NNG
+신고의무자를	신고/NNG + 의무자/NNG + 를/JKO
+대상으로	대상/NNG + 으로/JKB
+아동학대	아동/NNG + 학대/NNG
+예방교육을	예방/NNG + 교육/NNG + 을/JKO
+실시할	실시하/VV + ㄹ/ETM
+예정이다	예정/NNG + 이다/EF
+.	./SF
+경찰청	경찰청/NNG
+관계자는	관계자/NNG + 는/JX
+16일	16/SN + 일/NNB
+"	"/SS
+근본적인	근본/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+아동학대	아동/NNG + 학대/NNG
+근절을	근절/NNG + 을/JKO
+위해	위하/VV +  아/EC
+보육시설	보육/NNG + 시설/NNG
+내	나/NP + 의/JKG
+CCTV	CCTV/SL
+설치	설치/NNG
+의무화	의무/NNG + 화/XSN
+등	등/NNG
+제도	제도/NNG
+개선방안을	개선/NNG + 방안/NNG + 을/JKO
+관계기관과	관계/NNG + 기관/NNG + 과/JC
+협의하겠다	협의하/NNG + 겠/EP + 다/EF
+"	"/SS
+고	고/JKQ
+말했다	말하/VV + 았/EP + 다/EF
+.	./SF
+앞서	앞서/VV
+지난	지나/VV + ㄴ/ETM
+8일	8/SN + 일/NNB
+인천	인천/NNP
+어린이집	어린이집/NNG
+보육교사가	보육/NNG + 교사/NNG + 가/JKS
+음식을	음식/NNG + 을/JKO
+남겼다는	남기/VV + 었/EP + 다는/ETM
+이유로	이유/NNG + 로/JKB
+네	네/IC
+살배기	살/VV + 배기/XSN
+원생의	원생/NNG + 의/JKG
+빰을	빰/IC + 을/JKO
+강하게	강하/VA + 게/EC
+때린	때리/VV + ㄴ/ETM
+모습이	모습/NNG + 이/JKS
+녹화된	녹화되/VV + ㄴ/ETM
+CCTV	CCTV/SL
+영상이	영상/NNG + 이/JKS
+공개돼	공개되/VV + 어/EC
+어린이집	어린이집/NNG
+아동학대에	아동/NNG + 학대/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+사회적	사회/NNG + 적/NNB
+공분이	공분/NNG + 이/JKS
+일었다	일/NNG + 었/EP + 다/EF
+.	./SF
